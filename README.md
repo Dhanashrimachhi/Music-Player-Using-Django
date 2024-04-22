@@ -1,4 +1,8 @@
 # Django based Music Player Website
+>[![Linkedin](https://img.shields.io/badge/-DhanashriMachhi-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/dhanashrimachhi/)](https://www.linkedin.com/in/dhanashrimachhi)
+[![Behance Badge](https://img.shields.io/badge/-DhanashriMachhi-blue?style=flat-square&logo=Behance&logoColor=white&link=https://www.behance.net/dhanashrimac/)](https://www.behance.net/dhanashrimac)
+[![portfolio Badge](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://dhanashrimachhi.github.io/) 
+
 
 #### Home Page
 <img src="website_images/Home.png" width="900">
